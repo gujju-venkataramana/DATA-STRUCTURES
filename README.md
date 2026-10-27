@@ -2,27 +2,27 @@
 
 Files:
 
-01_singly_linked_list.c
-02_doubly_linked_list.c
-03_circular_linked_list.c
-04_experiment
--stack_using_array
--stack_using_linked_list
-05_experiment
--infix_to_postfix.c
--postfix_evaluation.c
-06_queue_implementation
--queue_array.c
--queue_linkedList.c
-07_circular_queue_and_priority_queue.c
-08_deque_circular_array.c
-09_hashing_collision_resolution.c
-10_bst_insert_delete_search.c
-11_bst_fixed_integers_traversal_search.c
-12_bst_nonrecursive_traversals.c
-13_graph_bfs_dfs_adjacency_matrix.c
-14_floyd_warshall.c
-15_dijkstra.c
+- 01_singly_linked_list.c
+- 02_doubly_linked_list.c
+- 03_circular_linked_list.c
+- 04_experiment
+- stack_using_array
+- stack_using_linked_list
+- 05_experiment
+- infix_to_postfix.c
+- postfix_evaluation.c
+- 06_queue_implementation
+- queue_array.c
+- queue_linkedList.c
+- 07_circular_queue_and_priority_queue.c
+- 08_deque_circular_array.c
+- 09_hashing_collision_resolution.c
+- 10_bst_insert_delete_search.c
+- 11_bst_fixed_integers_traversal_search.c
+- 12_bst_nonrecursive_traversals.c
+- 13_graph_bfs_dfs_adjacency_matrix.c
+- 14_floyd_warshall.c
+- 15_dijkstra.c
 
 
 Notes:
