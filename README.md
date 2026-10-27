@@ -14,7 +14,9 @@ Files:
 - 06_queue_implementation
 - queue_array.c
 - queue_linkedList.c
-- 07_circular_queue_and_priority_queue.c
+- 07_experiment
+- circular_queue
+- priority_queue
 - 08_deque_circular_array.c
 - 09_hashing_collision_resolution.c
 - 10_bst_insert_delete_search.c
@@ -30,4 +32,4 @@ Notes:
 - Dijkstra uses INF = 1e7 for absent edges in this implementation and assumes non-negative edge weights.
 - BST programs ignore duplicate keys unless otherwise stated.
 - Program 05 uses single-digit operands for postfix evaluation.
-- folder 4,5,6 contains their respective programs
+- folder 4,5,6,7 contains their respective programs
