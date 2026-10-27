@@ -30,4 +30,4 @@ Notes:
 - Dijkstra uses INF = 1e7 for absent edges in this implementation and assumes non-negative edge weights.
 - BST programs ignore duplicate keys unless otherwise stated.
 - Program 05 uses single-digit operands for postfix evaluation.
--folder 4,5,6 contains their respective programs
+- folder 4,5,6 contains their respective programs
